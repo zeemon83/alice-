@@ -9,7 +9,7 @@ body, html {
 	overflow-y: hidden;
 }
 #logomargin {
-  margin-top: 50px;
+  margin-top: 100px;
 }
 .logo {
   width: 220px;
@@ -103,9 +103,9 @@ h3, h2 {
 #headerMain {
 	/* height: 200px; */
 	font-size: 3em;
-  font-weight: 300;
+  font-weight: 500;
 	text-transform: uppercase;
-  border-bottom: 1px solid white;
+  border-bottom: 2px solid white;
   margin-bottom: 30px;
 }
 
